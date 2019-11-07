@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(182, 214, 130);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    table-layout: auto;
+    margin-left: 7em;
+    margin-right: 7em;
+}
+#softimage {
+border-radius: 0px 35px 35px 35px;
+border: 8.5px solid black;
+}
+
+#hardimage {
+border-radius: 0px 35px 35px 35px;
+border: 8.5px solid black;
+}
+
+#firstlist {
+    border-radius: 0px 35px 35px 35px;
+    border: 8.5px solid black;
+    background-color: white;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-right: 2em;
+    padding-left: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+#secondlist {
+    border-radius: 0px 35px 35px 35px;
+    border: 8.5px solid black; 
+    background-color: white;
+    padding-right: 2em;
+    padding-left: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+#text {
+border-radius: 35px 35px 0px 35px;
+border:8.5px solid rgb(49, 64, 92); 
+background-color: white;
+padding-right: 2em;
+padding-left: 2em;
+padding-top: 2em;
+padding-bottom: 2em;
+}
+
+.cont.tools a {
+text-decoration: none;
+color:rgb(15, 46, 15);
+font-weight: 2em;
+
+}
